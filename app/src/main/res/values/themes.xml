@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Edutock" parent="Theme.Material3.DayNight.NoActionBar">
+
+       <item name="colorPrimary">#28A3D9</item>
+    </style>
+
+    <style name="Theme.Edutock" parent="Base.Theme.Edutock" />
+</resources>
